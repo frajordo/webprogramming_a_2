@@ -6,19 +6,19 @@
 /*** About You ***/
 
 /* Your matriculation number */
-export const matriculationNumber = "TODO";
+export const matriculationNumber = "12542104";
 
 /* Your name? */
-export const name = "TODO";
+export const name = "Franklin José Ordóñez López";
 
 /* What is your nationality? */
-export const nationality = "TODO"
+export const nationality = "Ecuadorian"
 
 /* How old are you? */
-export const age = "TODO";
+export const age = "25";
 
 /* What did you do before studying? What school did you go to?  */
-export const priorEducation = "TODO";
+export const priorEducation = "Escuela Superior Politécnica del Litoral";
 
 /***
  * 
@@ -27,15 +27,15 @@ export const priorEducation = "TODO";
  * ***/
 
 /* What topic/part of the class are you most interested in? */
-export const topicInterest = "TODO";
+export const topicInterest = "Learning good practices for web programming";
 
 /* Do you have any prior experience with web development?
    If so, please describe it. If not, just remove the TODO. */
-export const priorWebdev = "TODO";
+export const priorWebdev = "Yes, I worked primarily as a research assistant and now I am working part time as a full stack";
 
 /* What's your favorite computer science experience?
    E.g. a class you've taken or a project you worked on. */
-export const favCSExp = "TODO";
+export const favCSExp = "I really liked my bachelor's thesis, it was about using computer vision to count bacterial colonies";
 
 /* Anything else you want us to know? You can leave this blank by removing the TODO. */
-export const anythingElse = "TODO";
+export const anythingElse = "Did you know that for latinamericans 'America' means the continent and not USA?";
